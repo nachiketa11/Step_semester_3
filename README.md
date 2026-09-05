@@ -5,6 +5,29 @@ STEP Semester 3 coursework repository containing weekly practice problems, assig
 ## Date: 05-09-2026
 
 **Today's Work:**
+- Completed Session 4: Constructors & Access Modifiers / Object Modeling.
+- Solved 5 Practice Problems:
+  1. Library Book Cataloguing (Constructor Chaining `this()`)
+  2. Payroll Batch Bonus Round
+  3. Late Fees – Skip the On-Time Accounts
+  4. One-Time College Setup, Many Students (Static Block)
+  5. Account Batch Payments (`instanceof` Polymorphism)
+- Solved 5 Assignment Problems:
+  1. Overloaded Constructors for Hackathon Registration
+  2. `this` Keyword for Canteen Inventory – Batch Restock
+  3. `final` Method – Parking Overstay Fine Calculator
+  4. Static Block – Library Membership Card Setup
+  5. `instanceof` Inside a Loop – Canteen Closing-Time Payment Dispatch
+
+**Next Session Plan:**
+- All available Semester 3 coursework sessions (Session 1 - Session 4) are completed.
+
+**Issues Faced:**
+- None.
+
+## Date: 05-09-2026
+
+**Today's Work:**
 - Completed Session 3: OOP, Classes and Objects.
 - Solved 5 Practice Problems:
   1. From Parallel Arrays to a Class (Student Placement Tracker)
