@@ -5,6 +5,29 @@ STEP Semester 3 coursework repository containing weekly practice problems, assig
 ## Date: 05-09-2026
 
 **Today's Work:**
+- Completed Session 5: Access Modifiers, Encapsulation & Object Modeling.
+- Solved 5 Practice Problems (`w5 1.pdf` – Category B in-class problems):
+  1. Movie Ticket Field Visibility Checker – `classifyAccess()` implementing all 4 Java access modifier rules across SAME_CLASS / SAME_PACKAGE / DIFFERENT_PACKAGE contexts
+  2. Subclass Ticket Access (extended AccessChecker) – extended with SUBCLASS_DIFFERENT_PACKAGE_OWN_TYPE and SUBCLASS_DIFFERENT_PACKAGE_PARENT_TYPE contexts for `protected` cross-package inheritance rules
+  3. Seat Booking Encapsulation Guard (`CineScreen`) – private fields, constructor-time validation, boundary-safe `bookSeat()` / `cancelBooking()` with silent rejection
+  4. `MovieBookingProfile` JavaBean & OTP Property – JavaBean compliant getX/setX/isX, convenience constructor with `this()` chaining, write-only OTP property (setter with no getter)
+  5. Immutable Booking Receipt & Nightly Settlement – `final` class + `final` fields, defensive copy in/out on `seatNumbers`, "wither" pattern via `withUpdatedSeat()`, `instanceof`-based batch dispatch with null-safety
+- Solved 5 Assignment Problems (`w5 2.pdf` – Category B homework):
+  1. Membership Field Reach Checker (`MembershipAccessChecker`) – same access-modifier logic applied to `LibraryMember` fields
+  2. Reference Desk Subclass Reach (extended `MembershipAccessChecker`) – protected cross-package subclass contexts for `LibraryMember` inheritance
+  3. Book Copy Circulation Guard (`BookInventoryGuard`) – private `copiesTotal`/`copiesAvailable`, constructor validation, boundary-safe `checkoutBook()` / `returnBook()`
+  4. `LibraryMemberBean` JavaBean & Security Answer Property – write-once `membershipId` (silently ignores second call), `isPremiumMember()` boolean getter, write-only `securityAnswer` stored as one-way hash
+  5. Immutable Loan Receipt & Nightly Circulation Ledger – `final` class + `final` fields + defensive copy, `withCorrectedBookId()` wither, static block in `CirculationLedger`, `instanceof` dispatch for `ReferenceOnlyLoanReceipt`, null-safe batch processing
+
+**Next Session Plan:**
+- All available Semester 3 coursework sessions (Sessions 1–5) are completed.
+
+**Issues Faced:**
+- None.
+
+## Date: 05-09-2026
+
+**Today's Work:**
 - Completed Session 4: Constructors & Access Modifiers / Object Modeling.
 - Solved 5 Practice Problems:
   1. Library Book Cataloguing (Constructor Chaining `this()`)
@@ -20,7 +43,7 @@ STEP Semester 3 coursework repository containing weekly practice problems, assig
   5. `instanceof` Inside a Loop – Canteen Closing-Time Payment Dispatch
 
 **Next Session Plan:**
-- All available Semester 3 coursework sessions (Session 1 - Session 4) are completed.
+- Session 5: Access Modifiers, Encapsulation & Object Modeling (5 Practice Problems + 5 Assignment Problems).
 
 **Issues Faced:**
 - None.
