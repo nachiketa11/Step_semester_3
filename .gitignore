@@ -1,0 +1,18 @@
+# Input PDFs
+*.pdf
+
+# Class files and build directories
+*.class
+bin/
+build/
+target/
+
+# IDE files
+.idea/
+.vscode/
+.settings/
+*.classpath
+*.project
+
+# Scratch directory
+scratch/
