@@ -5,6 +5,29 @@ STEP Semester 3 coursework repository containing weekly practice problems, assig
 ## Date: 05-09-2026
 
 **Today's Work:**
+- Completed Session 3: OOP, Classes and Objects.
+- Solved 5 Practice Problems:
+  1. From Parallel Arrays to a Class (Student Placement Tracker)
+  2. Encapsulated Mess-Card Wallet
+  3. Overloaded Constructors for a Course
+  4. Reference Copies and a Shared ID Card
+  5. Instance vs Static: Splitting a Class Correctly
+- Solved 5 Assignment Problems:
+  1. From Parallel Arrays to a Class – Library Inventory
+  2. Encapsulated Payroll Account
+  3. Overloaded Constructors for an Employee
+  4. Reference Copies and a Shared Exam Hall Ticket
+  5. Instance vs Static: Splitting an Employee Class Correctly
+
+**Next Session Plan:**
+- Session 4: Constructors & Access Modifiers / Object Modeling (5 Practice Problems + 5 Assignment Problems).
+
+**Issues Faced:**
+- None.
+
+## Date: 05-09-2026
+
+**Today's Work:**
 - Completed Session 2: String Operations & Manipulation.
 - Solved 5 Practice Problems:
   1. Vowel & Consonant Counter
